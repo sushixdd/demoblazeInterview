@@ -1,0 +1,23 @@
+{
+  "name": "demoblazeinterview",
+  "version": "1.0.0",
+  "description": "test123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushixdd/demoblazeInterview.git"
+  },
+  "author": "sushixd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushixdd/demoblazeInterview/issues"
+  },
+  "homepage": "https://github.com/sushixdd/demoblazeInterview#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "typescript": "^5.3.3"
+  }
+}
